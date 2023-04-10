@@ -6,7 +6,7 @@ https://www.geeksforgeeks.org/different-ways-reading-text-file-java/
 
 https://github.com/OneLoneCoder/Javidx9/tree/master/ConsoleGameEngine/BiggerProjects/Engine3D
 
-#Steps
+# Steps
 
 1. Load OBJ File
    1. `teapot.obj loads as text so i just have it scan the text
