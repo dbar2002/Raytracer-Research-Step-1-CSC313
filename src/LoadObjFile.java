@@ -19,8 +19,9 @@ public class LoadObjFile {
                 faceCount++;
             }
         }
-        System.out.println("Number of vertices: " + vertexCount);
+        // Number of faces and vertices
         System.out.println("Number of faces: " + faceCount);
+        System.out.println("Number of vertices: " + vertexCount);
 
         }
     }
