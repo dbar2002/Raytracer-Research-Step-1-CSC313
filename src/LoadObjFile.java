@@ -6,6 +6,7 @@ public class LoadObjFile {
 
     public static void main(String[] args) throws FileNotFoundException {
         // 1. Load OBJ File
+        // 11. A Main Function to Run the Program
         Scanner scanner = new Scanner(new File("src/teapot.obj"));
 
         int vertexCount = 0;
